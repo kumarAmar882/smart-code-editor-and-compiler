@@ -35,7 +35,7 @@ function App() {
 
       await axios({
         method: "GET",
-        url: process.env.REACT_APP_BACKEND_URL,
+        url: "https://backend-gules-three.vercel.app/api/",
         params: {
           data: program,
         },

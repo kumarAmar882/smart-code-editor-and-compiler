@@ -1,6 +1,8 @@
 # Smart Code Editor and Compiler
 
-![GitHub License](https://img.shields.io/github/license/kumarAmar882/smart-code-editor-and-compiler)
+### Demo
+
+You can access the live demo of the web application [here](https://online-ide-c80ed.web.app/).
 
 ## Overview
 

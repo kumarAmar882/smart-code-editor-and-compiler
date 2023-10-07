@@ -32,10 +32,10 @@ Follow these instructions to get a copy of the project up and running on your lo
     ``` cd smart-code-editor-and-compiler ```
 
 3. Install the required dependencies:
-   npm install
+   ``` npm install ```
 
 4. Start the development server:
-   ### npm start
+   ``` npm start ```
    
 5. Open your web browser and visit http://localhost:3000 to access the application.
 

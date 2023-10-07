@@ -29,15 +29,19 @@ Follow these instructions to get a copy of the project up and running on your lo
    git clone https://github.com/kumarAmar882/smart-code-editor-and-compiler.git
 
 2. Navigate to the project directory:
-    ``` cd smart-code-editor-and-compiler ```
+      
+    ```bash
+    cd smart-code-editor-and-compiler 
 
-3. Install the required dependencies:
-   ``` npm install ```
+4. Install the required dependencies:
+   ```bash
+    npm install 
 
-4. Start the development server:
-   ``` npm start ```
+6. Start the development server:
+   ```bash
+    npm start 
    
-5. Open your web browser and visit http://localhost:3000 to access the application.
+8. Open your web browser and visit http://localhost:3000 to access the application.
 
 ### Usage
 - Select the programming language you want to work with.

@@ -6,6 +6,12 @@
 
 You can access the live demo of the web application [here](https://online-ide-c80ed.web.app/).
 
+
+
+https://github.com/kumarAmar882/smart-code-editor-and-compiler/assets/65217388/25db6f93-987e-48aa-9af8-501ae2ce150a
+
+
+
 ## Overview
 
 The Smart Code Editor and Compiler is a versatile web-based code editor and compiler that allows you to write, edit, and compile code in various programming languages right in your browser. This project aims 

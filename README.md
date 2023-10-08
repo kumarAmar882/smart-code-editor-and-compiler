@@ -1,5 +1,7 @@
 # Smart Code Editor and Compiler
 
+![Screenshot (56)](https://github.com/kumarAmar882/smart-code-editor-and-compiler/assets/65217388/6cac9451-89f9-47ed-8c05-fb03b348c977)
+
 ### Demo
 
 You can access the live demo of the web application [here](https://online-ide-c80ed.web.app/).
@@ -17,37 +19,18 @@ to provide a convenient and efficient environment for developers and programmers
 - **Responsive Design**: The editor is designed to work seamlessly on both desktop and mobile devices.
 - **User-Friendly Interface**: An intuitive user interface that makes code editing and compilation easy.
 
-## Getting Started
 
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+### Screenshots
 
-- Node.js installed on your machine.
+![Screenshot (57)](https://github.com/kumarAmar882/smart-code-editor-and-compiler/assets/65217388/54c99427-6c9e-4fe7-802f-55cd2599b367)
 
-### Installation
 
-1. Clone the repository:
-   git clone https://github.com/kumarAmar882/smart-code-editor-and-compiler.git
+![Screenshot (58)](https://github.com/kumarAmar882/smart-code-editor-and-compiler/assets/65217388/297ff5fa-eb6a-4ab6-a06c-3c8bda45b565)
 
-2. Navigate to the project directory:
-      
-    ```bash
-    cd smart-code-editor-and-compiler 
 
-4. Install the required dependencies:
-   ```bash
-    npm install 
+![Screenshot (59)](https://github.com/kumarAmar882/smart-code-editor-and-compiler/assets/65217388/279ce436-8bfd-47e5-b059-a3262bd749d5)
 
-6. Start the development server:
-   ```bash
-    npm start 
-   
-8. Open your web browser and visit http://localhost:3000 to access the application.
 
-### Usage
-- Select the programming language you want to work with.
-- Start writing or pasting your code in the editor.
-- Click the "Compile" or "Run" button to see the output.
-- Enjoy coding with real-time syntax highlighting!
+![Screenshot (60)](https://github.com/kumarAmar882/smart-code-editor-and-compiler/assets/65217388/3fd84d4c-7f95-4990-b91f-91609a559598)
 
